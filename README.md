@@ -1,1 +1,4 @@
-# css_input_text_in_border
+# CSS Layouts
+
+## input_text_outlined.css
+![Demo](demo/input_text_outlined.css.gif)
